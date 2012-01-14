@@ -1,5 +1,1 @@
-public class Test {
-    public Test() {
-        )
-    
-    )     
+version 2
